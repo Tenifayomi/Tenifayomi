@@ -1,4 +1,5 @@
 - 👋 Hi, I’m  Ajibike Tenifayomi
+- 🔭 I’m currently working on bunch of projects that I cannot talk about due to NDA
 - 👀 I’m interested in Backend development, APIs, and scalable architecture. I love working with data and optimizing server performance.
 - 🌱 I’m currently learning html/css, react
 - 💞️ I’m looking to collaborate with Open source projects and initiatives that involve backend technologies. Let’s build something amazing together!
